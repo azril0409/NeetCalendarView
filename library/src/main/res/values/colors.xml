@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DefaultTextColor">#000000</color>
+    <color name="SelectedDayBackground">#D0FFAAAA</color>
+    <color name="SelectedDayTextColor">#FFFFFF</color>
+    <color name="ToDayTextColor">#FF0000</color>
+</resources>

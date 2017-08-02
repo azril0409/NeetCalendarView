@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NeetCalendarView">
+        <attr name="Padding" format="dimension" />
+        <attr name="orientation">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+        <attr name="DoubleClick" format="boolean" />
+        <attr name="MonthTitleInsert" format="string" />
+        <attr name="MonthTitleTextColor" format="color" />
+        <attr name="MonthTitleTextSize" format="dimension" />
+        <attr name="MonthTitleEnabled" format="boolean" />
+        <attr name="WeekTextColor" format="color" />
+        <attr name="WeekTextSize" format="dimension" />
+        <attr name="WeekEnabled" format="boolean" />
+        <attr name="NormalDayTextColor" format="color" />
+        <attr name="NormalDayTextSize" format="dimension" />
+        <attr name="ToDayTextColor" format="color" />
+        <attr name="ToDayBackgroundColor" format="color" />
+        <attr name="ToDayTextBold" format="boolean" />
+        <attr name="SelectedDayTextColor" format="color" />
+        <attr name="SelectedDayBackgroundColor" format="color" />
+        <attr name="SecondSelectedDayTextColor" format="color" />
+        <attr name="SecondSelectedDayBackgroundColor" format="color" />
+        <attr name="SelectedDayShape">
+            <enum name="oval" value="0" />
+            <enum name="rectangle" value="1" />
+        </attr>
+        <attr name="LinkSelectedDayTextColor" format="color" />
+        <attr name="LinkSelectedDayBackgroundColor" format="color" />
+        <attr name="LinkSelectedDayBackground" format="boolean" />
+    </declare-styleable>
+</resources>
